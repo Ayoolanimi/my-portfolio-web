@@ -99,7 +99,6 @@ class BankSystem():
     def __init__(self):
         self.balance = 10000    # initializing the default balance belonging to the user
 
-
     def greetings(self):    #  initiate the greetings' function interface to determine the action user would like to perform
         self.welcome = input("Welcome, what action would you like to perform? Deposit, Withdrawal, Check Balance: ").lower()
         if self.welcome == "deposit":
@@ -111,12 +110,10 @@ class BankSystem():
         else:
             print("Invalid input. Please try again.")
 
-
     def deposit(self):  # initiate the deposit function to comprehend the user's deposit actions
         self.balance += self.user_deps
         new_bal = ('Deposit Successful!! Your account balance is now ${}'.format(self.balance))
         print(new_bal)
-
 
     def withdraw(self): # initiate the withdrawal function to comprehend the user's deposit actions
         if self.user_with > self.balance:
@@ -128,7 +125,6 @@ class BankSystem():
             self.balance -= self.user_with
             new_bal2 = ('Withdrawal Successful!! Your account balance is now ${}'.format(self.balance))
             print(new_bal2)
-
 
 bank = BankSystem()
 bank.greetings()
