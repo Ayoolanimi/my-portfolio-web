@@ -33,7 +33,7 @@ bottomSections:
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
           auctor sapien.
         image:
-          url: /images/telus-logo.svg
+          url: /images/Screenshot 2025-02-05 193005-Photoroom.png
           altText: Company logo
           styles:
             self:
