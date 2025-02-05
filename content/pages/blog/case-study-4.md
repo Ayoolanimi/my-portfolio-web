@@ -90,10 +90,8 @@ author: content/data/gbp-vs-usd-ml-project.json
 ---
 **SUMMARY**
 
-This was a project about revenue and opportunities the company has offered. I was able to carry this out using the data from the client and analyze the conditions provided.
+This project focused on analyzing the company's revenue and the opportunities it has provided. Using data from the client, I conducted an in-depth analysis based on the specified conditions. I examined the opportunity count while considering factors such as region, opportunity stage, months, and state, along with the revenue generated.
 
-I worked on the opportunity count, putting the region, opportunity stage, months and state into consideration, as well as the opportunity count and revenue generated.
-
-N.B: the client gave consent for this report to be published in my portfolio. Also, the map feature wouldn't work because I am on a free Power BI version. Thanks
+**Note:** The client has granted permission for this report to be included in my portfolio. Additionally, the map feature is unavailable due to limitations of the free Power BI version. Thank you.
 
 ![](/images/image_original%20\(2\).jpeg)
