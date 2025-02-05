@@ -1,0 +1,59 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Author Profile",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Author"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Created by Olalekan Oseni",
+                "tagline": "",
+                "subtitle": "A dynamic junior data scientist and analyst with over 3 years of experience working with tools such as Python, SQL, MS Excel, Power BI, and Tableau, along with libraries like Pandas, NumPy, Scikit-Learn, Matplotlib, and Seaborn. This blog provides an overview of a project I worked on, including the code and key details.",
+                "text": null,
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/Screenshot 2025-02-05 193005-Photoroom.png",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Company logo",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "margin": [
+                                "ml-3"
+                            ]
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-6",
+                            "pl-6",
+                            "pb-6",
+                            "pr-6"
+                        ],
+                        "textAlign": "left",
+                        "borderColor": "border-neutralAlt",
+                        "borderStyle": "none",
+                        "borderWidth": 0,
+                        "borderRadius": "none",
+                        "flexDirection": "row"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-author-profile-efb3.png"
+        }
+    ]
+}
