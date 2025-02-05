@@ -38,7 +38,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/olalekan (1).png
+      url: /images/istockphoto-1683912727-612x612.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
