@@ -180,19 +180,19 @@ sections:
   - subtitle: Tools and Proficiencies
     images:
       - type: ImageBlock
-        url: /images/f1bd4d1d1c7765d826285decce3129dd.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
         url: /images/f8004373a8cceb0a8f167efcf4a4e9a4.png
+      - type: ImageBlock
+        url: /images/f1bd4d1d1c7765d826285decce3129dd.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - type: ImageBlock
         url: /images/sas_logo_icon_170762 (1) - Copy.png
         altText: Image alt text placeholder
