@@ -2,11 +2,7 @@
 title: Bike Sales Report Visualization
 slug: case-study-3
 date: '2023-03-07'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: ''
 featuredImage:
   url: /images/image_original (1).jpeg
   altText: Bike Sales Report Visualization
