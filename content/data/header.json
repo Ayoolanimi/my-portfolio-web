@@ -78,7 +78,7 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-centered-primary-nav-left",
+    "variant": "logo-left-primary-nav-left",
     "colors": "bg-dark-fg-light",
     "type": "Header",
     "title": "OLALEKAN OSENI"
