@@ -26,7 +26,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
+      - title: Created by Olalekan Oseni
         tagline: ''
         subtitle: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
