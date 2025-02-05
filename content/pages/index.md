@@ -41,7 +41,7 @@ sections:
       url: /images/mikey-harris-kw0z6RyvC0s-unsplash.jpg
   - type: FeaturedItemsSection
     title:
-      text: Skills
+      text: Skills and Interests
       color: text-dark
       styles:
         self:
