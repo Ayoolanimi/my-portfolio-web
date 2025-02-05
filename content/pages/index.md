@@ -51,7 +51,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Hard Skills
-        subtitle: Numbers Done
+        subtitle: ''
         text: |+
           *   Data Analysis
 
