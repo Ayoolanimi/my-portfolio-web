@@ -29,9 +29,12 @@ bottomSections:
       - title: Created by Olalekan Oseni
         tagline: ''
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Versatile Junior Data Scientist with over 3 years’ experience in data
+          cleaning, preprocessing, andanalysis. Experienced in exploratory data
+          analysis, predictive modeling, and collaborating with teamsto deliver
+          analytical solutions. Proficient in Python and Java, with expertise in
+          data visualization andreporting. Dedicated to keeping up with
+          advancements in AI and machine learning.
         image:
           url: /images/Screenshot 2025-02-05 193005-Photoroom.png
           altText: Company logo
