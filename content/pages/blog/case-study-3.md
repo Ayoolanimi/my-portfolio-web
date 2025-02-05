@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/image_original (1).jpeg
-  altText: Case study 3
+  altText: Bike Sales Report Visualization
   styles:
     self:
       borderRadius: x-large
