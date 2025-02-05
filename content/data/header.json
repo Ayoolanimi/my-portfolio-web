@@ -22,7 +22,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Analysis & Vizzes",
+                    "label": "Analysis & Visualizations",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
