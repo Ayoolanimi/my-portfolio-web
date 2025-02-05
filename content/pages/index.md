@@ -38,7 +38,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/istockphoto-1923671802-612x612.jpg
+      url: /images/istockphoto-606234152-612x612.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
