@@ -187,7 +187,7 @@ sections:
             borderRadius: medium
         url: /images/f8004373a8cceb0a8f167efcf4a4e9a4.png
       - type: ImageBlock
-        url: /images/1e253a8cd019680ccd70c96a71bde689.png
+        url: /images/python.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
