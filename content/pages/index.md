@@ -16,7 +16,7 @@ sections:
 
     actions: []
     media:
-      url: /images/isaac-smith-AT77Q0Njnt0-unsplash.jpg
+      url: /images/face-swap.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
