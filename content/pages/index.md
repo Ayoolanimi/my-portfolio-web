@@ -36,7 +36,7 @@ sections:
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
-      backgroundRepeat: repeat
+      backgroundRepeat: no-repeat
       opacity: 50
       url: /images/dillon-shook-mY3_bvR74fI-unsplash.jpg
   - type: FeaturedItemsSection
