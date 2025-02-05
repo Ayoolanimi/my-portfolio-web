@@ -61,7 +61,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/mikey-harris-kw0z6RyvC0s-unsplash.jpg
+      url: /images/isaac-smith-AT77Q0Njnt0-unsplash.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
