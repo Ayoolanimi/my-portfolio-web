@@ -119,7 +119,8 @@ class BankSystem():
         if self.user_with > self.balance:
             self.user_over = input('You do not have sufficient balance \nWould you like to request an overdraft? yes/no \n').lower()
             if self.user_over == 'yes':
-                print('Your request is being reviewed. You will be contacted via email')                  else:
+                print('Your request is being reviewed. You will be contacted via email')
+            else:
                 print('Please try again later')
         else:
             self.balance -= self.user_with
