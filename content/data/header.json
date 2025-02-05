@@ -50,7 +50,7 @@
             "type": "SubNav"
         },
         {
-            "label": "Contat me",
+            "label": "Contact me",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
