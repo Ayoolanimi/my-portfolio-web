@@ -180,7 +180,7 @@ sections:
   - subtitle: Tools and Proficiencies
     images:
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/pngegg.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
