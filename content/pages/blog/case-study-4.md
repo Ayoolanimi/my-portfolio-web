@@ -89,12 +89,10 @@ styles:
 ---
 **SUMMARY**
 
-This is a project analysing the total sales of each products and revenue generated, putting countries of purchase into consideration.
+This was a project about revenue and opportunities the company has offered. I was able to carry this out using the data from the client and analyze the conditions provided.
 
-I was able to generate the visualization after extracting and cleaning the data by web scraping using Python packages such as import, beautifulsoup and pandas begore transferringy cleaned data into Power BI for visualization.
+I worked on the opportunity count, putting the region, opportunity stage, months and state into consideration, as well as the opportunity count and revenue generated.
 
-P.S: I was not able to use the map feature because I am on the free Power BI version but I am Versant with the uses.
+N.B: the client gave consent for this report to be published in my portfolio. Also, the map feature wouldn't work because I am on a free Power BI version. Thanks
 
-
-
-![](/images/image_original%20\(1\).jpeg)
+![](/images/image_original%20\(2\).jpeg)
