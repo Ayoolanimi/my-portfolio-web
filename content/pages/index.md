@@ -186,13 +186,6 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - type: ImageBlock
-        url: /images/pngegg.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
