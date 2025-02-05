@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Bike Sales Report Visualization
+title: Revenue Opportunities Visualization
 date: '2023-03-07'
 excerpt: ''
 featuredImage:
