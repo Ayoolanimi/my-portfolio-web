@@ -61,7 +61,7 @@ sections:
 
           *   Data Visualization
 
-          *   Data Design and Management
+          *   Database Design and Management
 
           *   Dashboard
 
