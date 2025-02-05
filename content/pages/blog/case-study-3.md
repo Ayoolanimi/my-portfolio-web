@@ -35,7 +35,7 @@ bottomSections:
           Matplotlib, and Seaborn. This blog provides an overview of a project I
           worked on, including the code and key details.
         image:
-          url: /images/telus-logo.svg
+          url: /images/Screenshot 2025-02-05 193005-Photoroom.png
           altText: Company logo
           styles:
             self:
