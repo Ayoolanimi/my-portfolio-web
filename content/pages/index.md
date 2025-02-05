@@ -38,7 +38,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/olalekan (1)-Photoroom.png
+      url: /images/olalekan (1).png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
