@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/GBPUSD Scatter Plot.png
-  altText: Case study 2
+  altText: Machine Learning
   styles:
     self:
       borderRadius: x-large
