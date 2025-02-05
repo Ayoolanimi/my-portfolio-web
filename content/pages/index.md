@@ -16,7 +16,7 @@ sections:
 
     actions: []
     media:
-      url: /images/IMG_0089-Photoroom.png
+      url: /images/IMG_0094.JPG
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
