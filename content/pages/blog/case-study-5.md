@@ -90,10 +90,6 @@ styles:
 ---
 **SUMMARY**
 
-This was a project about revenue and opportunities the company has offered. I was able to carry this out using the data from the client and analyze the conditions provided.
+This dataset was provided by a client for analysis, and they granted permission to include the report in my portfolio. The client requested insights on their new hires, including details such as the total number, age, gender, ethnicity, and employment type.
 
-I worked on the opportunity count, putting the region, opportunity stage, months and state into consideration, as well as the opportunity count and revenue generated.
-
-N.B: the client gave consent for this report to be published in my portfolio. Also, the map feature wouldn't work because I am on a free Power BI version. Thanks
-
-![](/images/image_original%20\(2\).jpeg)
+![](/images/image_original.jpeg)
