@@ -329,7 +329,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This section contains a display of my badges and certifications
+    subtitle: This section showcases my badges and certifications.
     items:
       - title: Feature Item One
         tagline: This is the tagline
