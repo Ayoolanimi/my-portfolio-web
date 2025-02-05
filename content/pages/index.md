@@ -58,7 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/dillon-shook-mY3_bvR74fI-unsplash.jpg
+      url: /images/mikey-harris-kw0z6RyvC0s-unsplash.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
