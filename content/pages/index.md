@@ -180,7 +180,7 @@ sections:
   - subtitle: Tools and Proficiencies
     images:
       - type: ImageBlock
-        url: /images/rangle-logo.svg
+        url: /images/pngegg.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
