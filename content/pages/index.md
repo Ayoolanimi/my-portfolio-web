@@ -187,7 +187,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/f8004373a8cceb0a8f167efcf4a4e9a4.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
