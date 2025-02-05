@@ -52,10 +52,31 @@ sections:
       - type: FeaturedItem
         title: Hard Skills
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   Data Analysis
+
+          *   Data Extraction
+
+          *   Web Scraping
+
+          *   Data Visualization
+
+          *   Data Design and Management
+
+          *   Dashboard
+
+          *   Data Manipulation
+
+          *   Data Preprocessing
+
+          *   Exploratory Data Analysis
+
+          *   Predictive Models
+
+          *   Artificial Intelligence
+
+          *   Machine Learning
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
