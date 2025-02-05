@@ -16,7 +16,7 @@ sections:
 
     actions: []
     media:
-      url: /images/face-swap.png
+      url: /images/IMG_9485.jpeg.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
