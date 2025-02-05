@@ -29,7 +29,7 @@ bottomSections:
       - title: Created by Olalekan Oseni
         tagline: ''
         subtitle: >-
-          A dynamic junior data scientist and analyst with 3+ years of
+          A dynamic junior data scientist and analyst with over 3 years of
           experience working with tools such as Python, SQL, MS Excel, Power BI,
           and Tableau, along with libraries like Pandas, NumPy, Scikit-Learn,
           Matplotlib, and Seaborn. This blog provides an overview of a project I
