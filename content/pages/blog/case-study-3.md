@@ -8,8 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/img-placeholder.svg
   altText: Case study 3
   styles:
     self:
@@ -30,9 +29,11 @@ bottomSections:
       - title: About Company
         tagline: This is the tagline
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          A dynamic junior data scientist and analyst with over 3 years of
+          experience working with tools such as Python, SQL, MS Excel, Power BI,
+          and Tableau, along with libraries like Pandas, NumPy, Scikit-Learn,
+          Matplotlib, and Seaborn. This blog provides an overview of a project I
+          worked on, including the code and key details.
         image:
           url: /images/telus-logo.svg
           altText: Company logo
