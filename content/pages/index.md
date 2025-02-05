@@ -38,7 +38,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/isaac-smith-AT77Q0Njnt0-unsplash.jpg
+      url: /images/olalekan (1)-Photoroom.png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
