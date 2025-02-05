@@ -86,6 +86,7 @@ styles:
     borderWidth: 0
     borderRadius: none
     flexDirection: col
+author: content/data/gbp-vs-usd-ml-project.json
 ---
 **SUMMARY**
 
