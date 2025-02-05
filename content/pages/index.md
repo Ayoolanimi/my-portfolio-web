@@ -40,6 +40,9 @@ sections:
       label: This is a badge
       color: text-primary
       type: Badge
+      styles:
+        self:
+          textAlign: right
     elementId: ''
     colors: bg-dark-fg-light
     styles:
