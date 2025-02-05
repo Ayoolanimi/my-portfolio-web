@@ -178,7 +178,14 @@ sections:
       subtitle:
         textAlign: center
   - subtitle: Tools and Proficiencies
-    images: []
+    images:
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
