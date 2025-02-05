@@ -185,7 +185,7 @@ sections:
         styles:
           self:
             borderRadius: medium
-        url: /images/f8004373a8cceb0a8f167efcf4a4e9a4.png
+        url: /images/power bi - Copy.png
       - type: ImageBlock
         url: /images/f1bd4d1d1c7765d826285decce3129dd.png
         altText: Image alt text placeholder
