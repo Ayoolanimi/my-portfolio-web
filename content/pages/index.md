@@ -201,7 +201,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/postgresql logo.png
+        url: /images/9ccc53a59405b484a68a48002625743c.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
