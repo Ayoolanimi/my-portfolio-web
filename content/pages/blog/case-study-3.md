@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: About Company
-        tagline: This is the tagline
+        tagline: ''
         subtitle: >-
           A dynamic junior data scientist and analyst with over 3 years of
           experience working with tools such as Python, SQL, MS Excel, Power BI,
