@@ -17,7 +17,7 @@ sections:
     actions: []
     media:
       url: /images/face-swap.png
-      altText: Unblock your team boost your time to production preview
+      altText: Welcome to my portfolio. Here is a quote I go by
       elementId: ''
       type: ImageBlock
     elementId: ''
