@@ -192,6 +192,7 @@ sections:
         styles:
           self:
             borderRadius: medium
+        url: /images/f8004373a8cceb0a8f167efcf4a4e9a4.png
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
