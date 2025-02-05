@@ -38,7 +38,7 @@ sections:
       type: ImageBlock
     badge:
       label: This is a badge
-      color: text-light
+      color: text-primary
       type: Badge
       styles:
         self:
