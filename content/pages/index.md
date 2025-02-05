@@ -194,7 +194,6 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/sas_logo_icon_170762 (1) - Copy.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
