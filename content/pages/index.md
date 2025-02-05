@@ -37,7 +37,7 @@ sections:
       backgroundSize: contain
       backgroundPosition: center
       backgroundRepeat: repeat
-      opacity: 46
+      opacity: 33
       url: /images/istockphoto-1683912727-612x612.jpg
   - type: FeaturedItemsSection
     title:
