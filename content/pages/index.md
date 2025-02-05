@@ -214,7 +214,6 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/excel - Copy.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
