@@ -71,7 +71,7 @@ sections:
 
           *   Predictive Models
 
-          *   Artificial Intelligence
+          *   Artificial Intelligence (AI)
 
           *   Machine Learning
 
