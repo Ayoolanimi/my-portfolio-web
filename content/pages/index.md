@@ -11,7 +11,7 @@ sections:
 
 
       ```
-                                  Jamie Dimon
+                                  
       ```
 
     actions: []
