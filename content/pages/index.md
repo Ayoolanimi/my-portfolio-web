@@ -180,7 +180,7 @@ sections:
   - subtitle: Tools and Proficiencies
     images:
       - type: ImageBlock
-        url: /images/pngegg (1) - Copy.png
+        url: /images/pngegg (1).png
         altText: Image alt text placeholder
         elementId: ''
         styles:
