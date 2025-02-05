@@ -92,6 +92,6 @@ styles:
 
 This dataset was provided by a client for analysis, and they granted permission to include the report in my portfolio. The client requested insights on their new hires, including details such as the total number, age, gender, ethnicity, and employment type.
 
-P.S: Client gave consent to share for my portfolio
+**Note:** The client has granted permission for this report to be included in my portfolio. Thank you.
 
 ![](/images/image_original.jpeg)
