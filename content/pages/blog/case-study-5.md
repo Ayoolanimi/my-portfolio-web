@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Revenue Opportunities Visualization
+title: Demographic Report for New Hires
 date: '2023-05-01'
 author: content/data/gbp-vs-usd-ml-project.json
 excerpt: ''
