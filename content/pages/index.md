@@ -36,7 +36,7 @@ sections:
       altText: altText of the image
       backgroundSize: contain
       backgroundPosition: center
-      backgroundRepeat: repeat
+      backgroundRepeat: repeat-x
       opacity: 100
       url: /images/istockphoto-1683912727-612x612.jpg
   - type: FeaturedItemsSection
