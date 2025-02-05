@@ -42,7 +42,7 @@ sections:
       type: Badge
       styles:
         self:
-          textAlign: right
+          textAlign: left
     elementId: ''
     colors: bg-dark-fg-light
     styles:
