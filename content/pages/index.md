@@ -180,7 +180,7 @@ sections:
   - subtitle: Tools and Proficiencies
     images:
       - type: ImageBlock
-        url: /images/python.png
+        url: /images/f1bd4d1d1c7765d826285decce3129dd.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
