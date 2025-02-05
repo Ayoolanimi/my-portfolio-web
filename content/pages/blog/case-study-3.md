@@ -87,12 +87,8 @@ type: PostLayout
 ---
 **SUMMARY**
 
-This is a project analysing the total sales of each products and revenue generated, putting countries of purchase into consideration.
+This project analyzes the total sales of each product and the revenue generated, considering the countries where purchases were made. I extracted and cleaned the data through web scraping using Python libraries such as **import**, **BeautifulSoup**, and **Pandas** before transferring the refined dataset into Power BI for visualization.
 
-I was able to generate the visualization after extracting and cleaning the data by web scraping using Python packages such as import, beautifulsoup and pandas begore transferringy cleaned data into Power BI for visualization.
-
-P.S: I was not able to use the map feature because I am on the free Power BI version but I am Versant with the uses.
-
-
+**Note:** The map feature could not be utilized due to limitations of the free Power BI version, but I am well-versed in its functionality.
 
 ![](/images/image_original%20\(1\).jpeg)
