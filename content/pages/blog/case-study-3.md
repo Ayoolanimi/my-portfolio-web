@@ -26,7 +26,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
+      - title: Created by Olalekan Oseni
         tagline: ''
         subtitle: >-
           A dynamic junior data scientist and analyst with over 3 years of
