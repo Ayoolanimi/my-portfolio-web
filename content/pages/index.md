@@ -47,7 +47,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Below are the skills which I am known for
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: 500k
