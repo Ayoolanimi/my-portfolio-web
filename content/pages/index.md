@@ -629,7 +629,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Awards
       color: text-primary
       styles:
         self:
