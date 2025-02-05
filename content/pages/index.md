@@ -193,6 +193,13 @@ sections:
           self:
             borderRadius: medium
         url: /images/f8004373a8cceb0a8f167efcf4a4e9a4.png
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
