@@ -97,8 +97,6 @@ Regression. Then, I found my prediction value, calculated my intercept, slope an
 and then proceeded to finding the correlation using both Pearson correlation and Spearman’s
 Rank.
 
-![](/images/img-placeholder.svg)
-
 **LINES OF CODE**
 
 ```
@@ -139,69 +137,6 @@ plt.grid(True)
 plt.legend()
 plt.show() # There are no outliers as all the values fall below 1.40
 
-# Developing a Linear Model for values of trade open, trade close, stock high and low
-InVar = df[['Close','High','Low']]
-DeVar = df['Open']
 
-x = np.array(InVar)
-y = np.array(DeVar)
-
-x_train, x_test, y_train, y_test = train_test_split(x,y, test_size=0.2, random_state=0)
-
-LinReg = LinearRegression()
-LinReg.fit(x_train,y_train)
-
-y_pred = LinReg.predict(x_test)
-
-print("The predicted value is: \n",y_pred)
-print("The coefficients are: ",LinReg.coef_)
-print('intercepts is:', LinReg.intercept_)
-
-# Storing my output in a dataframe named "data"
-df1 = {
-    'actual':y_test,
-    'predicted':y_pred,
-    'difference':y_test - y_pred
-}
-data = pd.DataFrame(df1)
-print(data)
-
-# Finding the intercept, slope and rsquared from the model
-scaler = StandardScaler()
-x = scaler.fit_transform(df[['Open']])
-y = scaler.fit_transform(df[['Close']])
-
-sz = len(x)
-noVar = 0
-coVar = 0
-LossSm = 0
-msqd = 0
-
-for i in range(sz):
-    noVar += (x[i] - np.mean(x))*(y[i] - np.mean(y))
-    coVar += (x[i] - np.mean(x))**2
-
-slope = noVar/coVar
-intercept = np.mean(y) - slope*(np.mean(x))
-
-print('Slope is: ',slope)
-print('Intercept is: ',intercept)
-
-ypred = slope*x + intercept
-print('The predicted values are: \n',ypred)
-
-# Determining the rsquared value
-for i in range(sz):
-    LossSm += (ypred[i] - y[i])**2
-    msqd += (y[i] - np.mean(y))**2
-
-rSqd = 1 - (LossSm/msqd)
-print('The value for rSquared is: ',rSqd)
-
-# Finding the correlation between each variable using Pearson correlation (default) and Spearman correlation
-pcorr = df[df.columns[1:6]].corr()
-scorr = df[df.columns[1:6]].corr(method = 'spearman')
-print('Pearson correlation is: \n', pcorr)
-print('Spearman correlation is: \n', scorr)
 ```
 
