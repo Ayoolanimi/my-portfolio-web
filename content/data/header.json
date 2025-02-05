@@ -38,7 +38,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "More Projects",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
