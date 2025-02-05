@@ -53,19 +53,13 @@ sections:
         title: Hard Skills
         subtitle: ''
         text: |+
-          *   Data Analysis
+          *   Data Analysis and Visualization
 
-          *   Data Extraction
-
-          *   Web Scraping
-
-          *   Data Visualization
+          *   Web Scraping and Data Extraction
 
           *   Database Design and Management
 
-          *   Data Manipulation
-
-          *   Data Preprocessing
+          *   Data Manipulation and Preprocessing
 
           *   Exploratory Data Analysis
 
@@ -73,7 +67,11 @@ sections:
 
           *   Artificial Intelligence (AI)
 
-          *   Machine Learning
+          *   Deep Learning
+
+          *   Machine Learning (ML)
+
+          *   Natural Language Processing (NLP)
 
         actions: []
         elementId: null
