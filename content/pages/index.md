@@ -50,6 +50,10 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/isaac-smith-AT77Q0Njnt0-unsplash.jpg
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
