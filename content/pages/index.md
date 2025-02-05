@@ -50,7 +50,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Hard Skill
+        title: Hard Skills
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
