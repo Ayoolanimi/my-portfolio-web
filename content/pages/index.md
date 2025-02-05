@@ -2,55 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    subtitle: Subtitle goes here
-    text: >
-      **Most decisions are not binary, and there are usually better answers
-      waiting to be found if you do the analysis and involve the right
-      people...**
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: Projects
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
-    colors: bg-dark-fg-light
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/isaac-smith-AT77Q0Njnt0-unsplash.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -168,6 +119,55 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    subtitle: Subtitle goes here
+    text: >
+      **Most decisions are not binary, and there are usually better answers
+      waiting to be found if you do the analysis and involve the right
+      people...**
+    actions:
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+      - label: Projects
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      url: /images/main-hero.svg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    elementId: ''
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/isaac-smith-AT77Q0Njnt0-unsplash.jpg
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
