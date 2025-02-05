@@ -29,12 +29,12 @@ bottomSections:
       - title: Created by Olalekan Oseni
         tagline: ''
         subtitle: >-
-          Versatile Junior Data Scientist with over 3 years’ experience in data
-          cleaning, preprocessing, andanalysis. Experienced in exploratory data
-          analysis, predictive modeling, and collaborating with teamsto deliver
-          analytical solutions. Proficient in Python and Java, with expertise in
-          data visualization andreporting. Dedicated to keeping up with
-          advancements in AI and machine learning.
+          A versatile junior data scientist and analyst with over 3 years’
+          experience in data cleaning, preprocessing, and analysis. Experienced
+          in exploratory data analysis, predictive modeling, and collaborating
+          with teamsto deliver analytical solutions. Proficient in Python and
+          Java, with expertise in data visualization andreporting. Dedicated to
+          keeping up with advancements in AI and machine learning.
         image:
           url: /images/Screenshot 2025-02-05 193005-Photoroom.png
           altText: Company logo
