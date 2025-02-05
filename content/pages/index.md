@@ -63,8 +63,6 @@ sections:
 
           *   Database Design and Management
 
-          *   Dashboard
-
           *   Data Manipulation
 
           *   Data Preprocessing
