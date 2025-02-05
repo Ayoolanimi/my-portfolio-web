@@ -38,7 +38,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: repeat
       opacity: 50
-      url: /images/istockphoto-1683912727-612x612.jpg
+      url: /images/dillon-shook-mY3_bvR74fI-unsplash.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
