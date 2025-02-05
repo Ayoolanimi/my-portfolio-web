@@ -1,5 +1,5 @@
 ---
-title: Bank System Project
+title: Bank System Simulation
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
