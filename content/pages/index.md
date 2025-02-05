@@ -5,8 +5,9 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: >+
-      > Most decisions are not binary, and there are usually better answers
-      waiting to be found if you do the analysis and involve the right people...
+      > **Most decisions are not binary, and there are usually better answers
+      waiting to be found if you do the analysis and involve the right
+      people...**
 
 
       ```
