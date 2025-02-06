@@ -360,7 +360,7 @@ sections:
         text: |
           https\://www\.credly.com/badges/f3258452-76f3-4742-a404-1d217f548450
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/python for data science.png
           altText: Placeholder image
           styles:
             self:
