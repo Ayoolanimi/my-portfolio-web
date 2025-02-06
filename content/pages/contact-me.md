@@ -35,6 +35,15 @@ sections:
             iconPosition: left
             style: secondary
             elementId: ''
+          - type: Link
+            label: Instagram
+            altText: Instagram
+            url: /
+            showIcon: true
+            icon: instagram
+            iconPosition: left
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
