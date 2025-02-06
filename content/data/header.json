@@ -33,7 +33,7 @@
         {
             "label": "Contact Me",
             "altText": "Contact Me",
-            "url": "",
+            "url": "/contact-me",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
