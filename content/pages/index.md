@@ -463,7 +463,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: null
     badge:
       label: Contact me
