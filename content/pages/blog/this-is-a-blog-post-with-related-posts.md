@@ -85,8 +85,6 @@ bottomSections:
 slug: this-is-a-blog-post-with-related-posts
 isFeatured: false
 isDraft: false
-seo:
-  type: Seo
 colors: bg-light-fg-dark
 styles:
   self:
