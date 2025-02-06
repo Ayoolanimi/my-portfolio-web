@@ -44,5 +44,5 @@ seo:
   type: Seo
   metaTitle: Demo - Demo Site
   addTitleSuffix: false
-isDraft: true
+isDraft: false
 ---
