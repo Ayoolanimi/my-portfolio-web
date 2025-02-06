@@ -2,7 +2,7 @@
 type: PostLayout
 title: Analysis & Vizzes
 date: '2022-10-10'
-author: content/data/person1.json
+author: content/data/gbp-vs-usd-ml-project.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
