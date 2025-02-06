@@ -3,7 +3,7 @@ type: PostLayout
 title: Analysis & Vizzes
 date: '2022-10-10'
 author: content/data/gbp-vs-usd-ml-project.json
-excerpt: This section contains all my personal analysis and visualization projects
+excerpt: This section features my personal analysis and visualization projects.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
