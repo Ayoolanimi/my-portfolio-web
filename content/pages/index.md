@@ -234,6 +234,17 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
