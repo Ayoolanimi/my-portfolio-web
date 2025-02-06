@@ -13,7 +13,7 @@ sections:
     posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
-      - content/pages/blog/what-is-a-design-system.md
+      - content/pages/blog/case-study-3.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
