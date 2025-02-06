@@ -331,7 +331,7 @@ sections:
       type: TitleBlock
     subtitle: This section showcases my badges and certifications.
     items:
-      - title: Feature Item One
+      - title: 'Cisco '
         tagline: ''
         subtitle: This is the item subtitle
         text: |
