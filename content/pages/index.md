@@ -419,9 +419,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Hello! Thank you for visiting my website. If you'd like to get in touch,
+      **Hello! Thank you for visiting my website. If you'd like to get in touch,
       please fill out this form, and I'll get back to you. I look forward to
-      connecting with you. See you soon!
+      connecting with you. See you soon!**
     media:
       fields:
         - name: name
