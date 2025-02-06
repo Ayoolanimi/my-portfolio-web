@@ -67,4 +67,5 @@ postFeed:
     backgroundPosition: center
     backgroundRepeat: no-repeat
     opacity: 100
+    url: /images/isaac-smith-AT77Q0Njnt0-unsplash.jpg
 ---
