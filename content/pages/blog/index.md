@@ -47,25 +47,4 @@ seo:
   type: Seo
 type: PostFeedLayout
 bottomSections: []
-postFeed:
-  type: PagedPostsSection
-  title: null
-  subtitle: null
-  showThumbnail: true
-  showExcerpt: true
-  showDate: true
-  showAuthor: true
-  actions: []
-  elementId: null
-  variant: three-col-grid
-  colors: bg-light-fg-dark
-  hoverEffect: move-up
-  backgroundImage:
-    type: BackgroundImage
-    altText: altText of the image
-    backgroundSize: auto
-    backgroundPosition: center
-    backgroundRepeat: no-repeat
-    opacity: 100
-    url: /images/isaac-smith-AT77Q0Njnt0-unsplash.jpg
 ---
