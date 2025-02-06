@@ -418,11 +418,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Hello! Thank you for visiting my website. If you'd like to get in touch,
+      please fill out this form, and I'll get back to you. I look forward to
+      connecting with you. See you soon!
     media:
       fields:
         - name: name
