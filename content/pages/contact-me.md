@@ -38,7 +38,7 @@ sections:
           - type: Link
             label: Instagram
             altText: Instagram
-            url: /
+            url: '/https://www.instagram.com/jemal_ayo?igsh=dHp6MXllMnYzcG02'
             showIcon: true
             icon: instagram
             iconPosition: left
