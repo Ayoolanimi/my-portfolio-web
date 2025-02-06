@@ -2,11 +2,7 @@
 title: Bank System Simulation
 slug: case-study-1
 date: '2024-01-05'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: ''
 featuredImage:
   url: /images/Screenshot 2025-02-05 202125.png
   altText: Case study 1
