@@ -335,7 +335,7 @@ sections:
         tagline: ''
         subtitle: 'For verification, click:'
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          https\://www\.credly.com/badges/dc1a2f6a-c64f-487d-a736-6ed8d6649d72
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
