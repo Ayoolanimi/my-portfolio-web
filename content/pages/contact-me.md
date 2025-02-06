@@ -53,6 +53,15 @@ sections:
             iconPosition: left
             style: secondary
             elementId: ''
+          - type: Link
+            label: LinkedIn
+            altText: LinkedIn
+            url: /
+            showIcon: true
+            icon: linkedin
+            iconPosition: left
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
