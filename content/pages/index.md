@@ -471,6 +471,13 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
 seo:
   type: Seo
   metaTitle: Home - Demo Site
