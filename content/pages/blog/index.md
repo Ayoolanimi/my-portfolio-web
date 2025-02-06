@@ -14,7 +14,7 @@ topSections:
           textAlign: center
     posts:
       - content/pages/blog/case-study-1.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
+      - content/pages/blog/case-study-2.md
       - content/pages/blog/what-is-a-design-system.md
     showThumbnail: true
     showExcerpt: true
