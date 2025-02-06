@@ -478,6 +478,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/istockphoto-1822009439-612x612.jpg
 seo:
   type: Seo
   metaTitle: Home - Demo Site
