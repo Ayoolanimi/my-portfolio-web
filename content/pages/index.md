@@ -337,7 +337,7 @@ sections:
         text: |
           https\://www\.credly.com/badges/dc1a2f6a-c64f-487d-a736-6ed8d6649d72
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/cisco badge.png
           altText: Placeholder Image
           styles:
             self:
