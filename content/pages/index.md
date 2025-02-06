@@ -415,7 +415,7 @@ sections:
     type: FeaturedItemsSection
   - title:
       text: Please fill this form
-      color: text-light
+      color: text-primary
       type: TitleBlock
     subtitle: ''
     text: >
