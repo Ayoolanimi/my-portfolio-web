@@ -333,7 +333,7 @@ sections:
     items:
       - title: Cisco Data Analyst
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'For verification, click:'
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
