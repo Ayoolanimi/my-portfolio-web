@@ -377,7 +377,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: IBM Python for Analysis
+      - title: IBM Data Analysis with Python
         tagline: ''
         subtitle: 'For verification, click:'
         text: |
