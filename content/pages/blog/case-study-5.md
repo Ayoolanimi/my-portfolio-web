@@ -6,7 +6,7 @@ author: content/data/gbp-vs-usd-ml-project.json
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/image_original (1).jpeg
+  url: /images/image_original.jpeg
   altText: Bike Sales Report Visualization
   styles:
     self:
