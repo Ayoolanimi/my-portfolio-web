@@ -478,7 +478,10 @@ sections:
       backgroundPosition: center
       backgroundRepeat: repeat
       opacity: 100
-      url: /images/istockphoto-1363104923-612x612.jpg
+      url: >-
+        /images/DALL·E 2025-02-06 09.00.50 - A professional business meeting in
+        a modern office setting. A group of diverse professionals is gathered
+        around a conference table, engaged in discuss.webp
 seo:
   type: Seo
   metaTitle: Home - Demo Site
