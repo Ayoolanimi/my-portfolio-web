@@ -23,7 +23,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: ''
         subtitle: ''
         actions: []
         colors: bg-light-fg-dark
