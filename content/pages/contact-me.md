@@ -47,7 +47,7 @@ sections:
           - type: Link
             label: Facebook
             altText: Facebook
-            url: /
+            url: '/https://www.facebook.com/share/1AD88cuWv5/'
             showIcon: true
             icon: facebook
             iconPosition: left
