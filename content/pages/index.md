@@ -363,8 +363,9 @@ sections:
     subtitle: ''
     text: >
       Hello! Thank you for visiting my website. If you'd like to get in touch,
-      please fill out this form, and I'll get back to you. I look forward to
-      connecting with you. See you soon!
+      please fill out this form, and I'll get back to you. You can also click
+      the **Contact Me** button in the header to explore other ways to connect.
+      I look forward to connecting with you. See you soon!
     media:
       fields:
         - name: name
