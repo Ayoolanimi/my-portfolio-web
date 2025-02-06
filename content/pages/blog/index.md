@@ -9,4 +9,6 @@ styles:
     textAlign: center
 type: PostFeedLayout
 bottomSections: []
+seo:
+  type: Seo
 ---
