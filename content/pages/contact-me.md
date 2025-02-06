@@ -24,7 +24,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
+        subtitle: ''
         actions:
           - type: Link
             label: GitHub
