@@ -23,7 +23,7 @@ sections:
           textAlign: center
     items:
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: ''
         subtitle: ''
         actions:
           - type: Link
