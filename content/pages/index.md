@@ -331,7 +331,7 @@ sections:
       type: TitleBlock
     subtitle: This section showcases my badges and certifications.
     items:
-      - title: Cisco Data Analys
+      - title: Cisco Data Analyst
         tagline: ''
         subtitle: 'For verification, click:'
         text: |
