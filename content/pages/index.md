@@ -474,6 +474,7 @@ sections:
     type: GenericSection
 seo:
   type: Seo
+  metaTitle: Home - Demo Site
 type: PageLayout
 isDraft: false
 ---
