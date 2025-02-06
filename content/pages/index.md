@@ -477,7 +477,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 45
+      opacity: 100
       url: >-
         /images/DALL·E 2025-02-06 09.00.50 - A professional business meeting in
         a modern office setting. A group of diverse professionals is gathered
