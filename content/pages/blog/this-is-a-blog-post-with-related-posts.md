@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Analysis & Vizzes
+title: ''
 date: '2022-10-10'
 author: content/data/gbp-vs-usd-ml-project.json
 excerpt: This section features my personal analysis and visualization projects.
