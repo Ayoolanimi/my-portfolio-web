@@ -7,8 +7,6 @@ topSections: []
 styles:
   title:
     textAlign: center
-seo:
-  type: Seo
 type: PostFeedLayout
 bottomSections:
   - type: FeaturedPostsSection
