@@ -33,7 +33,7 @@
         {
             "label": "Contact Me",
             "altText": "Contact Me",
-            "url": "meetwithayo.netlify.app/home/footer",
+            "url": "footer",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
