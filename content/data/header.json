@@ -21,7 +21,7 @@
             "type": "Link",
             "label": "Projects",
             "altText": "",
-            "url": "/blog",
+            "url": "/meetwithayo.netlify.app/blog/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
