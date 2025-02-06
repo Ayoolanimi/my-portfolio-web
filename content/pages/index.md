@@ -476,7 +476,7 @@ sections:
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
-      backgroundRepeat: no-repeat
+      backgroundRepeat: repeat
       opacity: 100
       url: /images/istockphoto-1822009439-612x612.jpg
 seo:
