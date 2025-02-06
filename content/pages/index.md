@@ -380,9 +380,8 @@ sections:
       - title: IBM Python for Analysis
         tagline: ''
         subtitle: 'For verification, click:'
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |
+          https\://www\.credly.com/badges/72ab73aa-c4ca-49e0-9e5e-84f846f0b361
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
