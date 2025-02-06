@@ -54,6 +54,15 @@ sections:
             style: secondary
             elementId: ''
           - type: Link
+            label: Twitter
+            altText: Twitter
+            url: /
+            showIcon: true
+            icon: twitter
+            iconPosition: left
+            style: secondary
+            elementId: ''
+          - type: Link
             label: LinkedIn
             altText: LinkedIn
             url: /
