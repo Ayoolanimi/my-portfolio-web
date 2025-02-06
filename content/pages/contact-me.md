@@ -113,7 +113,7 @@ sections:
       subtitle:
         textAlign: center
 slug: contact-me
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Landing Page
