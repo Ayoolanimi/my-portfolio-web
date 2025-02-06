@@ -25,7 +25,16 @@ sections:
       - type: FeaturedItem
         title: Cotton Knit Throws
         subtitle: $ 44.99 – $ 90
-        actions: []
+        actions:
+          - type: Link
+            label: GitHub
+            altText: GitHub
+            url: '/https://github.com/Ayoolanimi/Projects'
+            showIcon: true
+            icon: github
+            iconPosition: left
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
