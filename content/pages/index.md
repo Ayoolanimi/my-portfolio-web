@@ -476,7 +476,7 @@ sections:
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
-      backgroundRepeat: repeat
+      backgroundRepeat: no-repeat
       opacity: 100
       url: >-
         /images/DALL·E 2025-02-06 09.00.50 - A professional business meeting in
