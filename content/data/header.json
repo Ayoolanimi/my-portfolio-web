@@ -33,7 +33,7 @@
         {
             "label": "Contact Me",
             "altText": "Contact Me",
-            "url": "/homefooter",
+            "url": "footer",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
