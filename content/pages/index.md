@@ -469,7 +469,7 @@ sections:
       label: Contact me
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     type: GenericSection
     backgroundImage:
       type: BackgroundImage
