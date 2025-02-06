@@ -460,7 +460,7 @@ sections:
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
