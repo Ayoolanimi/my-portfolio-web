@@ -18,7 +18,6 @@ bottomSections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/this-is-a-blog-post-with-related-posts.md
       - content/pages/blog/five-tips-for-starting-a-startup.md
       - content/pages/blog/what-is-a-design-system.md
     showThumbnail: true
