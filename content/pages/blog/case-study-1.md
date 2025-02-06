@@ -1,14 +1,10 @@
 ---
-title: Case study 1
+title: Bank System Simulation
 slug: case-study-1
-date: '2022-01-05'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+date: '2024-01-05'
+excerpt: ''
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/Screenshot 2025-02-05 202125.png
   altText: Case study 1
   styles:
     self:
@@ -26,14 +22,16 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
-        tagline: This is the tagline
+      - title: Created by Olalekan Oseni
+        tagline: ''
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          A dynamic junior data scientist and analyst with over 3 years of
+          experience working with tools such as Python, SQL, MS Excel, Power BI,
+          and Tableau, along with libraries like Pandas, NumPy, Scikit-Learn,
+          Matplotlib, and Seaborn. This blog provides an overview of a project I
+          worked on, including the code and key details.
         image:
-          url: /images/telus-logo.svg
+          url: /images/Screenshot 2025-02-05 193005-Photoroom.png
           altText: Company logo
           styles:
             self:
@@ -86,16 +84,49 @@ styles:
     borderRadius: none
     flexDirection: col
 type: PostLayout
+author: content/data/gbp-vs-usd-ml-project.json
 ---
+**SUMMARY**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+The Bank System class simulates basic banking functions, including deposit, withdrawal, and balance inquiry. It initializes with a default balance of $10,000 and prompts the user to select an action. Deposits update the balance, while withdrawals check if sufficient funds are available, offering an overdraft option if needed. The program runs by creating an instance of Bank System and calling the greetings method, providing a simple console-based banking interface with input validation.
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
+**LINES OF CODE**
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+```
+# creating a class for the BankSystem functions
+class BankSystem():
+    def __init__(self):
+        self.balance = 10000    # initializing the default balance belonging to the user
 
-![](/images/img-placeholder.svg)
+    def greetings(self):    #  initiate the greetings' function interface to determine the action user would like to perform
+        self.welcome = input("Welcome, what action would you like to perform? Deposit, Withdrawal, Check Balance: ").lower()
+        if self.welcome == "deposit":
+            self.user_deps = int(input("Enter the amount you would like to deposit: "))                    self.deposit()
+        elif self.welcome == "withdrawal":
+            self.user_with = int(input("Enter the amount you would like to withdraw: "))                  self.withdraw()
+        elif self.welcome == "check balance":
+            print("Your account balance is", self.balance)
+        else:
+            print("Invalid input. Please try again.")
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+    def deposit(self):  # initiate the deposit function to comprehend the user's deposit actions
+        self.balance += self.user_deps
+        new_bal = ('Deposit Successful!! Your account balance is now ${}'.format(self.balance))
+        print(new_bal)
+
+    def withdraw(self): # initiate the withdrawal function to comprehend the user's deposit actions
+        if self.user_with > self.balance:
+            self.user_over = input('You do not have sufficient balance \nWould you like to request an overdraft? yes/no \n').lower()
+            if self.user_over == 'yes':
+                print('Your request is being reviewed. You will be contacted via email')
+            else:
+                print('Please try again later')
+        else:
+            self.balance -= self.user_with
+            new_bal2 = ('Withdrawal Successful!! Your account balance is now ${}'.format(self.balance))
+            print(new_bal2)
+
+bank = BankSystem()
+bank.greetings()
+```
+
