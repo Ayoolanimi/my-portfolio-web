@@ -426,7 +426,7 @@ sections:
       fields:
         - name: name
           label: Name
-          hideLabel: false
+          hideLabel: true
           placeholder: Your name
           isRequired: true
           width: full
