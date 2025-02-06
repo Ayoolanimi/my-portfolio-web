@@ -1,17 +1,7 @@
 {
-    "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": ["mr-3"]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Home",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,76 +9,51 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "About me",
             "altText": "Blog",
+            "url": "/about-me",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Projects",
+            "altText": "",
             "url": "/blog",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "label": "Contact Me",
+            "altText": "Contact Me",
+            "url": "/contact-me",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "showIcon": false
         }
     ],
     "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "colors": "bg-dark-fg-light",
+    "type": "Header",
+    "title": "OLALEKAN OSENI",
+    "logo": {
+        "type": "ImageBlock",
+        "url": "/images/image-Photoroom (2).png",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium"
+            }
+        }
+    }
 }

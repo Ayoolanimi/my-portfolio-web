@@ -1,10 +1,10 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Screenshot 2025-02-05 193005-Photoroom.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "",
     "primaryLinks": {
         "title": "Product",
         "links": [
