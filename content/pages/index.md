@@ -354,7 +354,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: IBM (Python)
+      - title: IBM Python for Data Science
         tagline: ''
         subtitle: 'For verification, click:'
         text: |
