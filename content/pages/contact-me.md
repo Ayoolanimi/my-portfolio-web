@@ -80,6 +80,15 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+          - type: Link
+            label: Send
+            altText: Send
+            url: /
+            showIcon: true
+            icon: send
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
