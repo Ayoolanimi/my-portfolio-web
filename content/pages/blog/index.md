@@ -12,4 +12,5 @@ bottomSections: []
 seo:
   type: Seo
   metaTitle: Demo - Demo Site
+  addTitleSuffix: true
 ---
