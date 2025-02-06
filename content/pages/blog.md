@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Projects
+title: Blog
 sections: []
 slug: /blog
 isDraft: false
