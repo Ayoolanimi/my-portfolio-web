@@ -383,7 +383,7 @@ sections:
         text: |
           https\://www\.credly.com/badges/72ab73aa-c4ca-49e0-9e5e-84f846f0b361
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/data analysis with python.png
           altText: Placeholder image
           styles:
             self:
