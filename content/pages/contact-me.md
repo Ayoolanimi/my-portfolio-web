@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Contact ME
+      text: Contact Me
       color: text-dark
       styles:
         self:
