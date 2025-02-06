@@ -85,8 +85,6 @@ styles:
     flexDirection: col
 type: PostLayout
 author: content/data/gbp-vs-usd-ml-project.json
-seo:
-  type: Seo
 ---
 **SUMMARY**
 
