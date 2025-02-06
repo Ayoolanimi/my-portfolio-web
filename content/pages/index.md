@@ -452,7 +452,7 @@ sections:
             - pb-6
             - pl-6
             - pr-6
-          borderColor: border-dark
+          borderColor: border-primary
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
