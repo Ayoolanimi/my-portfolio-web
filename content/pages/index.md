@@ -356,7 +356,7 @@ sections:
         type: FeaturedItem
       - title: IBM (Python)
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'For verification, click:'
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
