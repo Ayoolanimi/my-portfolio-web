@@ -14,6 +14,8 @@ sections:
       - content/pages/blog/bank-simulation-simulation.md
       - content/pages/blog/gbp-usd-ml-project.md
       - content/pages/blog/bike-sales-report-visualization.md
+      - content/pages/blog/revenue-opportunities-visualization.md
+      - content/pages/blog/new-hire-demoraphic-report.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
