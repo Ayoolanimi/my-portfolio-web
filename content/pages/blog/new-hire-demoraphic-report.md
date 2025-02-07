@@ -71,7 +71,7 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /case-study-5
+slug: /new-hire-demoraphic-report
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
