@@ -13,7 +13,7 @@ sections:
     posts:
       - content/pages/blog/bank-simulation-simulation.md
       - content/pages/blog/gbp-usd-ml-project.md
-      - content/pages/blog/case-study-4.md
+      - content/pages/blog/bike-sales-report-visualization.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
