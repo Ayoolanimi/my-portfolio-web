@@ -2,17 +2,6 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "Projects",
-            "altText": "",
-            "url": "/blog",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Link",
             "label": "See Tutorials",
             "altText": "",
             "url": "/",
@@ -20,6 +9,17 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Projects",
+            "altText": "",
+            "url": "/blog",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
             "elementId": ""
         },
         {
