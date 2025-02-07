@@ -118,7 +118,7 @@ sections:
           - pl-20
           - pb-20
           - pr-20
-slug: contact-me
+slug: contact
 isDraft: false
 seo:
   type: Seo
