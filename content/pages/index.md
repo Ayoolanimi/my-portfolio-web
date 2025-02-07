@@ -432,7 +432,7 @@ sections:
           - pt-10
           - pl-0
           - pb-10
-          - pr-5
+          - pr-0
 seo:
   type: Seo
   metaTitle: Home - Demo Site
