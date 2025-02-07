@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: /
+slug: /pricing
 sections:
   - type: GenericSection
     subtitle: ''
