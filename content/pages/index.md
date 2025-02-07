@@ -395,7 +395,7 @@ sections:
             - pt-6
             - pb-6
             - pl-5
-            - pr-6
+            - pr-5
           borderColor: border-light
           borderStyle: solid
           borderWidth: 1
