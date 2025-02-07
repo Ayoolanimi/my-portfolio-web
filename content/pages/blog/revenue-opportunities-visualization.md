@@ -70,7 +70,7 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /case-study-4
+slug: /revenue-opportunities-visualization
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
