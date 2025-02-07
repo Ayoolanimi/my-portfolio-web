@@ -431,7 +431,7 @@ sections:
         padding:
           - pt-0
           - pl-0
-          - pb-0
+          - pb-3
           - pr-0
 seo:
   type: Seo
