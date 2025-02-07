@@ -22,7 +22,7 @@
         {
             "label": "Documents",
             "altText": "Documents",
-            "url": "",
+            "url": "/docs",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
