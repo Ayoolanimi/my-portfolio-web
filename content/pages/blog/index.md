@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Projects
 slug: /projects
 numOfPostsPerPage: 8
 enableSearch: false
