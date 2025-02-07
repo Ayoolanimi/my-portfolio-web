@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Blog
+title: Projects
 sections:
   - type: FeaturedPostsSection
     title:
