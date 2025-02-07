@@ -429,7 +429,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
