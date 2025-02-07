@@ -55,7 +55,7 @@
     "styles": {
         "self": {
             "padding": [
-                "pl-20"
+                "pl-0"
             ]
         }
     }
