@@ -1,6 +1,6 @@
 ---
 title: Bike Sales Report Visualization
-slug: case-study-3
+slug: bike-sales-report-visualization
 date: '2023-03-07'
 excerpt: ''
 featuredImage:
