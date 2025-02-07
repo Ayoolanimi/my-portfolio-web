@@ -34,7 +34,7 @@ sections:
           - pr-16
         justifyContent: center
     subtitle: This section features my personal analysis and visualization projects.
-slug: /projects
+slug: /blog
 isDraft: false
 seo:
   type: Seo
