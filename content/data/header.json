@@ -12,15 +12,6 @@
             "elementId": ""
         },
         {
-            "label": "Resume",
-            "altText": "Resume",
-            "url": "https://1drv.ms/b/c/9b0cc41f9c29eeb6/EaZcb3r4RA9OvYfAmKh5E4kBPo-x4soCZlfH1pfrCkjAXg?e=bgFYnf",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "See Tutorials",
             "altText": "",
@@ -30,6 +21,15 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
+        },
+        {
+            "label": "Resume",
+            "altText": "Resume",
+            "url": "https://1drv.ms/b/c/9b0cc41f9c29eeb6/EaZcb3r4RA9OvYfAmKh5E4kBPo-x4soCZlfH1pfrCkjAXg?e=bgFYnf",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [
