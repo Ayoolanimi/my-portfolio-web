@@ -247,7 +247,7 @@ sections:
           - pr-3
   - posts:
       - content/pages/blog/bank-simulation-simulation.md
-      - content/pages/blog/case-study-2.md
+      - content/pages/blog/gbp-usd-ml-project.md
       - content/pages/blog/case-study-3.md
     showThumbnail: true
     showDate: true
