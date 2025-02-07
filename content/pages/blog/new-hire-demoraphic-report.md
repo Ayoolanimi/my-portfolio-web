@@ -1,11 +1,12 @@
 ---
 type: PostLayout
-title: Revenue Opportunities Visualization
-date: '2023-05-01'
+title: New Hire Demographic Report
+date: '2024-04-01'
+author: content/data/gbp-vs-usd-ml-project.json
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/image_original (2).jpeg
+  url: /images/image_original.jpeg
   altText: Bike Sales Report Visualization
   styles:
     self:
@@ -70,7 +71,7 @@ bottomSections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /case-study-4
+slug: /new-hire-demoraphic-report
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
@@ -86,12 +87,11 @@ styles:
     borderWidth: 0
     borderRadius: none
     flexDirection: col
-author: content/data/gbp-vs-usd-ml-project.json
 ---
 **SUMMARY**
 
-This project focused on analyzing the company's revenue and the opportunities it has provided. Using data from the client, I conducted an in-depth analysis based on the specified conditions. I examined the opportunity count while considering factors such as region, opportunity stage, months, and state, along with the revenue generated.
+This dataset was provided by a client for analysis, and they granted permission to include the report in my portfolio. The client requested insights on their new hires, including details such as the total number, age, gender, ethnicity, and employment type.
 
-**Note:** The client has granted permission for this report to be included in my portfolio. Additionally, the map feature is unavailable due to limitations of the free Power BI version. Thank you.
+**Note:** The client has granted permission for this report to be included in my portfolio. Thank you.
 
-![](/images/image_original%20\(2\).jpeg)
+![](/images/image_original.jpeg)

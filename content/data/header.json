@@ -1,12 +1,15 @@
 {
     "primaryLinks": [
         {
+            "type": "Link",
             "label": "Home",
-            "url": "/pricing",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "elementId": ""
         },
         {
             "type": "Link",
