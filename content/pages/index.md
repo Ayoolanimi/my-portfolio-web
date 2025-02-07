@@ -394,7 +394,7 @@ sections:
           padding:
             - pt-6
             - pb-6
-            - pl-6
+            - pl-5
             - pr-6
           borderColor: border-light
           borderStyle: solid
