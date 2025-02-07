@@ -426,6 +426,13 @@ sections:
         /images/DALL·E 2025-02-06 09.00.50 - A professional business meeting in
         a modern office setting. A group of diverse professionals is gathered
         around a conference table, engaged in discuss.webp
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
 seo:
   type: Seo
   metaTitle: Home - Demo Site
