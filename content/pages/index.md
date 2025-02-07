@@ -394,8 +394,8 @@ sections:
           padding:
             - pt-6
             - pb-6
-            - pl-6
-            - pr-6
+            - pl-5
+            - pr-5
           borderColor: border-light
           borderStyle: solid
           borderWidth: 1
@@ -421,22 +421,18 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 20
+      opacity: 50
       url: >-
         /images/DALL·E 2025-02-06 09.00.50 - A professional business meeting in
         a modern office setting. A group of diverse professionals is gathered
         around a conference table, engaged in discuss.webp
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-dark-fg-light
     styles:
       self:
         padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
+          - pt-10
+          - pl-0
+          - pb-10
+          - pr-0
 seo:
   type: Seo
   metaTitle: Home - Demo Site
