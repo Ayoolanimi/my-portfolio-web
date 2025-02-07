@@ -1,6 +1,6 @@
 ---
 title: Bank System Simulation
-slug: case-study-1
+slug: bank-simulation-simulation
 date: '2024-01-05'
 excerpt: ''
 featuredImage:
