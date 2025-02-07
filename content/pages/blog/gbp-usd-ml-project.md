@@ -1,6 +1,6 @@
 ---
 title: GBP vs USD ML Project
-slug: case-study-2
+slug: gbp-usd-ml-project
 date: '2024-10-16'
 excerpt: ''
 featuredImage:

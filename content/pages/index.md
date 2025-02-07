@@ -246,9 +246,9 @@ sections:
           - pb-3
           - pr-3
   - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
+      - content/pages/blog/bank-simulation-simulation.md
+      - content/pages/blog/gbp-usd-ml-project.md
+      - content/pages/blog/bike-sales-report-visualization.md
     showThumbnail: true
     showDate: true
     showAuthor: true
