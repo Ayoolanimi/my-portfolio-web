@@ -11,7 +11,7 @@ sections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/case-study-2.md
+      - content/pages/blog/bank-simulation-simulation.md
       - content/pages/blog/case-study-3.md
       - content/pages/blog/case-study-4.md
     showThumbnail: true
