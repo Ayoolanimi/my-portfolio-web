@@ -246,7 +246,7 @@ sections:
           - pb-3
           - pr-3
   - posts:
-      - content/pages/blog/case-study-1.md
+      - content/pages/blog/bank-simulation-simulation.md
       - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
     showThumbnail: true
