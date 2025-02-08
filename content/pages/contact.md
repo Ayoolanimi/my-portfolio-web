@@ -29,7 +29,7 @@ sections:
           - type: Link
             label: GitHub
             altText: GitHub
-            url: '/https://github.com/Ayoolanimi/Projects'
+            url: 'https://github.com/Ayoolanimi/Projects'
             showIcon: true
             icon: github
             iconPosition: left
@@ -38,7 +38,7 @@ sections:
           - type: Link
             label: Instagram
             altText: Instagram
-            url: '/https://www.instagram.com/meetwithayo?igsh=dHp6MXllMnYzcG02'
+            url: 'https://www.instagram.com/meetwithayo?igsh=dHp6MXllMnYzcG02'
             showIcon: true
             icon: instagram
             iconPosition: left
@@ -47,7 +47,7 @@ sections:
           - type: Link
             label: Facebook
             altText: Facebook
-            url: '/https://www.facebook.com/share/1AD88cuWv5/'
+            url: 'https://www.facebook.com/share/1AD88cuWv5/'
             showIcon: true
             icon: facebook
             iconPosition: left
@@ -56,7 +56,7 @@ sections:
           - type: Link
             label: Twitter
             altText: Twitter
-            url: '/https://x.com/meetwithayo?t=rUfYxHvnOmoAoGo9WV8WAA&s=09'
+            url: 'https://x.com/meetwithayo?t=rUfYxHvnOmoAoGo9WV8WAA&s=09'
             showIcon: true
             icon: twitter
             iconPosition: left
