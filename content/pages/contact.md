@@ -38,7 +38,7 @@ sections:
           - type: Link
             label: Instagram
             altText: Instagram
-            url: '/https://www.instagram.com/meetwithayo?igsh=dHp6MXllMnYzcG02'
+            url: 'https://www.instagram.com/meetwithayo?igsh=dHp6MXllMnYzcG02'
             showIcon: true
             icon: instagram
             iconPosition: left
