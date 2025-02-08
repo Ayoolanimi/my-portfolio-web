@@ -56,7 +56,7 @@ sections:
           - type: Link
             label: Twitter
             altText: Twitter
-            url: '/https://x.com/meetwithayo?t=rUfYxHvnOmoAoGo9WV8WAA&s=09'
+            url: 'https://x.com/meetwithayo?t=rUfYxHvnOmoAoGo9WV8WAA&s=09'
             showIcon: true
             icon: twitter
             iconPosition: left
