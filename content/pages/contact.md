@@ -29,7 +29,7 @@ sections:
           - type: Link
             label: GitHub
             altText: GitHub
-            url: '/https://github.com/Ayoolanimi/Projects'
+            url: 'https://github.com/Ayoolanimi/Projects'
             showIcon: true
             icon: github
             iconPosition: left
