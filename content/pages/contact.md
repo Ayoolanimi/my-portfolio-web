@@ -83,7 +83,7 @@ sections:
           - type: Link
             label: Send
             altText: Send
-            url: /
+            url: 'https://wa.me/qr/Z2FIHMQLE5ZVC1'
             showIcon: true
             icon: send
             iconPosition: right
