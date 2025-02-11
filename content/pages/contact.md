@@ -74,7 +74,7 @@ sections:
           - type: Link
             label: Send email
             altText: Play
-            url: /
+            url: 'mailto:oseniolalekanayoola@outlook.com'
             showIcon: true
             icon: mail
             iconPosition: right
@@ -83,7 +83,7 @@ sections:
           - type: Link
             label: Send
             altText: Send
-            url: /
+            url: 'https://wa.me/qr/Z2FIHMQLE5ZVC1'
             showIcon: true
             icon: send
             iconPosition: right
